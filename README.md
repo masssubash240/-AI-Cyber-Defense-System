@@ -283,19 +283,6 @@ http://localhost:5000
 
 ---
 
-# 🎥 Demo Animation (README GIF)
-
-You can add a GIF like this in GitHub:
-
-```
-![Demo](images/dashboard-demo.gif)
-```
-
-Recommended GIF ideas:
-
-* malware scan animation
-* dashboard animation
-* network scan animation
 
 ---
 
