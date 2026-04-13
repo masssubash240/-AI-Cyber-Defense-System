@@ -5,7 +5,7 @@
 
 ![Image](https://cdn.dribbble.com/userupload/43439112/file/original-9b2d76da668971a2fa5a1914729b4671.png?resize=400x0)
 
-![Image](https://images.openai.com/static-rsc-3/zMmuuv7slYneuBg-FxCvQ8CwXAd5B-QjEnhIEPtPgTaAXEJmw8L77CKDNG-KzG83s4NcScrGcpu0i-NiA6eIWQybyha9K-PnN2dYsJrcQTQ?purpose=fullsize\&v=1)
+
 
 ![Image](https://elements-resized.envatousercontent.com/elements-video-cover-images/df10bc55-3150-43bf-add1-9daa707f10cd/video_preview/video_preview_0002.jpg?cf_fit=cover\&format=auto\&q=85\&s=865924521a116e4a3bf8ed456930686d8ef2393e3823cb9a739274142cd9d958\&w=500)
 
