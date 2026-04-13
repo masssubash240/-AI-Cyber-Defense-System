@@ -36,7 +36,7 @@ Built using **Python, Flask, HTML, CSS, JavaScript**.
 
 ![Image](https://cdn.dribbble.com/userupload/16036468/file/original-7c4c61430b46c75d5fe60c8d7cd8fe65.png?format=webp\&resize=400x300\&vertical=center)
 
-![Image](https://cdn.dribbble.com/userupload/46872347/file/be9f45049c1dbc51740b5c05927a9fbb.png?format=webp\&resize=400x300\&vertical=center)
+
 
 Real-time monitoring of system security.
 
